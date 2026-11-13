@@ -33,7 +33,7 @@ Después de habilitar esta opción, todos los enlaces unidos a la página actual
 ### 4.3 Precargar la página siguiente para acelerar la navegación
 Después de abrir, al leer la página actual, Pagetual precargará todas las imágenes de la página siguiente con antelación.
 
-## 5 [Reglas personalizadas](/rule.html)
+## 5 [Reglas personalizadas](/rule.md)
 ![Reglas personalizadas](https://s3.bmp.ovh/imgs/2024/01/10/fa4f00c3e9f77878.gif)
 ### 5.1 Captura visual
 Después de hacer clic en `Edit rule for current` (Editar regla para la actual), aparecerá un cuadro azul en la página actual siguiendo el ratón. En este momento, haz clic en el elemento correspondiente para capturar el contenido que deseas unir y convertirlo en el código del selector.

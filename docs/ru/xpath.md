@@ -198,8 +198,8 @@ table.xp tr>:nth-child(3) {width: 10%; text-align:right;}
 ### Порядок цепочек
 
 ```bash
-a[1][@href='/']
-a[@href='/'][1]
+a[1][@href='/PagetualGuide/']
+a[@href='/PagetualGuide/'][1]
 ```
 
 Порядок важен: эти выражения разные.

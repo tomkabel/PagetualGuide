@@ -63,7 +63,7 @@ Pagetual은 Greasemonkey 기반이므로 실행하려면 스크립트 관리자�
 
 
 ## 2. Pagetual 설치 - 2초
-<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #005200; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://greasyfork.org/en/scripts/438684-pagetual">📲 Greasyfork에서 설치</a><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://hoothin.github.io/UserScripts/Pagetual/pagetual.user.js">Github</a></div>
+<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://tomkabel.github.io/UserScripts/Pagetual/pagetual.user.js">Github</a></div>
 
 ::: details 💡 Q: "브라우저 Greasemonkey 스크립트"란 무엇인가요?
 A: "Greasemonkey"는 브라우저에서 스크립트를 실행하고 관리하는 플러그인입니다. 스크립트는 웹 브라우징 경험을 최적화하는 코드 조각입니다. 일단 설치되면, 일부 스크립트는 사이트에 새로운 기능을 추가하고, 일부는 사이트 인터페이스를 더 사용하기 쉽게 만들며, 일부는 사이트의 성가신 광고를 숨깁니다.

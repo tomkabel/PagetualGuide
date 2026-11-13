@@ -57,7 +57,7 @@ Pagetual est basé sur Greasemonkey, il nécessite donc un gestionnaire de scrip
 </table>
 
 ## Installer Pagetual
-<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #005200; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://greasyfork.org/en/scripts/438684-pagetual">📲 Installer depuis Greasyfork</a><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://hoothin.github.io/UserScripts/Pagetual/pagetual.user.js">Github</a></div>
+<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://tomkabel.github.io/UserScripts/Pagetual/pagetual.user.js">Github</a></div>
 
 ::: details 💡 Q: Qu'est-ce qu'un "script Greasemonkey de navigateur"?
 R: "Greasemonkey" est un plug-in qui exécute et gère des scripts sur le navigateur. Un script est un morceau de code qui optimise votre expérience de navigation web. Une fois installés, certains scripts ajoutent de nouvelles fonctionnalités au site, certains rendent l'interface du site plus facile à utiliser, et certains cachent les publicités gênantes sur le site.

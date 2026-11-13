@@ -33,7 +33,7 @@ Wenn diese Option aktiviert ist, werden alle Links, die in die aktuelle Seite ei
 ### 4.3 Nächste Seite vorladen, um das Browsen zu beschleunigen
 Nach der Aktivierung werden beim Lesen der aktuellen Seite alle Bilder der nächsten Seite vorab geladen.
 
-## 5 [Benutzerdefinierte Regeln](/rule.html)
+## 5 [Benutzerdefinierte Regeln](/rule.md)
 ![Custom rules](https://s3.bmp.ovh/imgs/2024/01/10/fa4f00c3e9f77878.gif)
 ### 5.1 Visuelles Erfassen
 Nachdem Sie auf `Edit rule for current` geklickt haben, erscheint ein blauer Kasten, der der Maus folgt. Klicken Sie jetzt auf das entsprechende Element, um den Hauptinhalt, den Sie einfügen möchten, zu erfassen und in den Selektor-Code zu konvertieren.

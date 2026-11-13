@@ -47,7 +47,7 @@ A：特定のGreasemonkeyスクリプトを無効化または削除するには�
   - [Gear](https://gear4.app/)
 
 ## 2 東方永頁機のインストール - 2s
-<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #005200; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://greasyfork.org/ja/scripts/438684-pagetual?locale_override=1">Greeasyfork インストールにアクセス</a><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://hoothin.github.io/UserScripts/Pagetual/pagetual.user.js">Githubリポジトリ</a></div>
+<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://tomkabel.github.io/UserScripts/Pagetual/pagetual.user.js">Githubリポジトリ</a></div>
 
 ## 3 設置後
 インストール後は、**高度なカスタマイズ**ページにアクセスし、基本ルールライブラリを導入することをおすすめします。基本ライブラリには、多くの一般的なウェブサイトに対してルールが記述されています。

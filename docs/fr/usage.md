@@ -33,7 +33,7 @@ Après avoir activé cette option, tous les liens ajoutés à la page actuelle s
 ### 4.3 Pré-charger la page suivante pour accélérer la navigation
 Une fois ouverte, lors de la lecture de la page actuelle, Pagetual pré-chargera à l'avance toutes les images de la page suivante.
 
-## 5 [Règles personnalisées](/rule.html)
+## 5 [Règles personnalisées](/rule.md)
 ![Règles personnalisées](https://s3.bmp.ovh/imgs/2024/01/10/fa4f00c3e9f77878.gif)
 ### 5.1 Capture visuelle
 Après avoir cliqué sur `Modifier la règle pour l'actuel`, une boîte bleue apparaîtra sur la page actuelle en suivant la souris. À ce moment, cliquez sur l'élément correspondant pour capturer le contenu que vous souhaitez assembler et le convertir en code sélecteur.

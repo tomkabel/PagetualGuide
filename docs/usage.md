@@ -54,4 +54,4 @@ While Pagetual's automatic mode is great, sometimes you need more control. Custo
 
 This is an advanced feature, but we've made it as easy as possible with a **visual selector tool**. Just click the element on the page you want to grab, and Pagetual will generate the code for you.
 
-To learn more, check out our detailed **[Custom Rules Guide](/rule.html)**.
+To learn more, check out our detailed **[Custom Rules Guide](/rule.md)**.

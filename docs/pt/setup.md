@@ -62,7 +62,7 @@ Certifique-se de habilitar "Permitir Scripts de Usuário" para a versão MV3 da 
 </table>
 
 ## 2. Instalar Pagetual - 2 segundos
-<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #005200; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://greasyfork.org/en/scripts/438684-pagetual">📲 Instalar do Greasyfork</a><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://hoothin.github.io/UserScripts/Pagetual/pagetual.user.js">Github</a></div>
+<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://tomkabel.github.io/UserScripts/Pagetual/pagetual.user.js">Github</a></div>
 
 ::: details 💡 P: O que é "script Greasemonkey de navegador"?
 R: "Greasemonkey" é um plug-in que executa e gerencia scripts no navegador. Um script é um pedaço de código que otimiza sua experiência de navegação na web. Uma vez instalados, alguns scripts adicionam novas funcionalidades ao site, alguns tornam a interface do site mais fácil de usar e alguns ocultam anúncios irritantes no site.

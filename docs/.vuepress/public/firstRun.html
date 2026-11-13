@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="refresh" content="0; url=/first-run.html">
+    <meta http-equiv="refresh" content="0; url=/PagetualGuide/first-run.html">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Redirecting...</title>
     <script>
@@ -11,18 +11,18 @@
           return (l || '').toLowerCase();
         });
         var mappings = [
-          { match: ['zh-cn', 'zh-hans', 'zh-sg'], path: '/cn/first-run.html' },
-          { match: ['zh-tw', 'zh-hant', 'zh-hk', 'zh-mo'], path: '/tw/first-run.html' },
-          { match: ['ja', 'ja-jp'], path: '/ja/first-run.html' },
-          { match: ['de', 'de-de', 'de-at', 'de-ch'], path: '/de/first-run.html' },
-          { match: ['es', 'es-es', 'es-419', 'es-mx'], path: '/es/first-run.html' },
-          { match: ['fr', 'fr-fr', 'fr-ca'], path: '/fr/first-run.html' },
-          { match: ['pt', 'pt-br', 'pt-pt'], path: '/pt/first-run.html' },
-          { match: ['ru', 'ru-ru'], path: '/ru/first-run.html' },
-          { match: ['ko', 'ko-kr'], path: '/ko/first-run.html' },
-          { match: ['vi', 'vi-vn'], path: '/vi/first-run.html' }
+          { match: ['zh-cn', 'zh-hans', 'zh-sg'], path: '/PagetualGuide/cn/first-run.html' },
+          { match: ['zh-tw', 'zh-hant', 'zh-hk', 'zh-mo'], path: '/PagetualGuide/tw/first-run.html' },
+          { match: ['ja', 'ja-jp'], path: '/PagetualGuide/ja/first-run.html' },
+          { match: ['de', 'de-de', 'de-at', 'de-ch'], path: '/PagetualGuide/de/first-run.html' },
+          { match: ['es', 'es-es', 'es-419', 'es-mx'], path: '/PagetualGuide/es/first-run.html' },
+          { match: ['fr', 'fr-fr', 'fr-ca'], path: '/PagetualGuide/fr/first-run.html' },
+          { match: ['pt', 'pt-br', 'pt-pt'], path: '/PagetualGuide/pt/first-run.html' },
+          { match: ['ru', 'ru-ru'], path: '/PagetualGuide/ru/first-run.html' },
+          { match: ['ko', 'ko-kr'], path: '/PagetualGuide/ko/first-run.html' },
+          { match: ['vi', 'vi-vn'], path: '/PagetualGuide/vi/first-run.html' }
         ];
-        var target = '/first-run.html';
+        var target = '/PagetualGuide/first-run.html';
         for (var i = 0; i < langList.length; i++) {
           var lang = langList[i];
           if (!lang) continue;
@@ -35,7 +35,7 @@
                 break;
               }
             }
-            if (target !== '/first-run.html') break;
+            if (target !== '/PagetualGuide/first-run.html') break;
           }
         }
         var suffix = window.location.search + window.location.hash;
@@ -45,6 +45,6 @@
   </head>
   <body>
     <p>Redirecting to the localized first-run page...</p>
-    <p><a href="/first-run.html">Continue</a></p>
+    <p><a href="/PagetualGuide/first-run.html">Continue</a></p>
   </body>
 </html>

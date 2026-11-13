@@ -198,8 +198,8 @@ Xpath에는 “공백으로 구분된 목록에 포함되는지”를 바로 확
 ### 체이닝 순서
 
 ```bash
-a[1][@href='/']
-a[@href='/'][1]
+a[1][@href='/PagetualGuide/']
+a[@href='/PagetualGuide/'][1]
 ```
 
 순서에 따라 결과가 달라집니다.

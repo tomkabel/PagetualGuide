@@ -198,8 +198,8 @@ Xpath 没有“判断是否包含空格分隔列表项”的内置运算符，�
 ### 链式顺序
 
 ```bash
-a[1][@href='/']
-a[@href='/'][1]
+a[1][@href='/PagetualGuide/']
+a[@href='/PagetualGuide/'][1]
 ```
 
 顺序不同，结果也不同。

@@ -25,7 +25,7 @@ title: 欢迎使用东方永页机
 https://ghfast.top/https://raw.githubusercontent.com/hoothin/UserScripts/master/Pagetual/pagetualRules.json
 </pre>
 <pre class="fr-card" name="pagetual" style="display: none; overflow: hidden;" title="这是源地址，发布在 github io">
-https://hoothin.github.io/UserScripts/Pagetual/pagetualRules.json
+https://tomkabel.github.io/UserScripts/Pagetual/pagetualRules.json
 </pre>
 
 <section class="fr-callout">
@@ -41,7 +41,7 @@ https://hoothin.github.io/UserScripts/Pagetual/pagetualRules.json
     <div class="fr-text">获取更新、交流经验、提交反馈。</div>
     <div class="fr-links fr-links--stack">
       <a href="https://discord.com/invite/keqypXC6wD"><img alt="" src="/img/discord.png" /> Discord</a>
-      <a href="https://github.com/hoothin/UserScripts"><img alt="" src="/img/github.png" /> GitHub</a>
+      <a href="https://github.com/tomkabel/UserScripts"><img alt="" src="/img/github.png" /> GitHub</a>
       <a href="https://twitter.com/intent/follow?screen_name=HoothinDev" title="在推特上关注我"><img alt="" src="/img/twitter.png" /> Twitter</a>
     </div>
   </div>
@@ -59,11 +59,11 @@ https://hoothin.github.io/UserScripts/Pagetual/pagetualRules.json
   <iframe width="560" height="315" src="https://www.youtube.com/embed/3px6HILj94w?si=NAvtubgx2au_KeFO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
-<component :is="'script'" src = "/js/fireWorks.js">
+<component :is="'script'" src = "/PagetualGuide/js/fireWorks.js">
 </component>
 
 <div class="fr-cta">
-  <a class="fr-cta__btn" href="/cn/usage">上手教程</a>
+  <a class="fr-cta__btn" href="/PagetualGuide/cn/usage">上手教程</a>
   <button class="fr-reward__btn" type="button" onclick="window.pagetualOpenRewardImage ? window.pagetualOpenRewardImage(this) : this.nextElementSibling.click()">支付宝领红包，买东西省亿点！</button>
   <img class="fr-reward__image" src="https://s2.loli.net/2024/07/04/1CIsVfT9rxjKwRU.jpg" alt="支付宝红包二维码" />
 </div>

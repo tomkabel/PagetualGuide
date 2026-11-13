@@ -198,8 +198,8 @@ Dùng `[]` với số, `last()` hoặc `position()`.
 ### Thứ tự chaining
 
 ```bash
-a[1][@href='/']
-a[@href='/'][1]
+a[1][@href='/PagetualGuide/']
+a[@href='/PagetualGuide/'][1]
 ```
 
 Thứ tự quan trọng; hai biểu thức này khác nhau.

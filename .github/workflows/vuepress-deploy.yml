@@ -1,5 +1,8 @@
 name: Build and Deploy
-on: [push]
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
@@ -24,4 +27,3 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_branch: gh-pages
         publish_dir: docs/.vuepress/dist/
-        cname: pagetual.hoothin.com

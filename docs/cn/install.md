@@ -47,7 +47,7 @@ A：您可以在用户脚本插件管理界面中禁用或删除特定的油猴�
   - [Gear](https://gear4.app/)
 
 ## 2 安装东方永页机 - 2秒
-<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #005200; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://greasyfork.org/zh-CN/scripts/438684-pagetual">访问 Greasyfork 安装</a><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://hoothin.github.io/UserScripts/Pagetual/pagetual.user.js">Github 库</a></div>
+<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://tomkabel.github.io/UserScripts/Pagetual/pagetual.user.js">Github 库</a></div>
 
 ## 3 安装之后
 安装之后建议前往高级自定义页导入基础规则库，基础库针对诸多常用站点编写了规则。

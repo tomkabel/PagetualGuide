@@ -63,7 +63,7 @@ Hãy đảm bảo bạn đã bật "Allow User Scripts" cho phiên bản MV3 c�
 
 
 ## 2. Cài đặt Pagetual - 2 giây
-<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #005200; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://greasyfork.org/en/scripts/438684-pagetual">📲 Cài đặt từ Greasyfork</a><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://hoothin.github.io/UserScripts/Pagetual/pagetual.user.js">Github</a></div>
+<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://tomkabel.github.io/UserScripts/Pagetual/pagetual.user.js">Github</a></div>
 
 ::: details 💡 H: "Browser Greasemonkey script" là gì?
 Đ: "Greasemonkey" là một plugin chạy và quản lý các script trên trình duyệt. Một script là một đoạn mã giúp tối ưu hóa trải nghiệm duyệt web của bạn. Sau khi được cài đặt, một số script sẽ thêm các chức năng mới vào trang web, một số giúp giao diện trang web dễ sử dụng hơn, và một số khác ẩn các quảng cáo phiền toái trên trang.

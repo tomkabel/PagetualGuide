@@ -8,9 +8,9 @@
 
 <p name="click2import"></p>
 <pre name="pagetual" style="display: none;">
-https://hoothin.github.io/UserScripts/Pagetual/pagetualRules.json
+https://tomkabel.github.io/UserScripts/Pagetual/pagetualRules.json
 </pre>
-<component :is="'script'" src = "/jsoneditor/jsoneditor.min.js">
+<component :is="'script'" src = "/PagetualGuide/jsoneditor/jsoneditor.min.js">
 </component>
 <component :is="'style'" type="text/css">
 div.jsoneditor,
@@ -95,7 +95,7 @@ div.jsoneditor-value.jsoneditor-invalid {
 }
 </component>
 
-[![discord](/img/discord.png) Discord](https://discord.com/invite/keqypXC6wD "歡迎加入我們的 Discord 群") [![github](/img/github.png) Github](https://github.com/hoothin/UserScripts "點亮 Github 小星星") [![twitter](/img/twitter.png) Twitter](https://twitter.com/intent/follow?screen_name=HoothinDev "在推特上關注我")
+[![discord](/img/discord.png) Discord](https://discord.com/invite/keqypXC6wD "歡迎加入我們的 Discord 群") [![github](/img/github.png) Github](https://github.com/tomkabel/UserScripts "點亮 Github 小星星") [![twitter](/img/twitter.png) Twitter](https://twitter.com/intent/follow?screen_name=HoothinDev "在推特上關注我")
 
 <div id="jsoneditor"></div>
 
@@ -153,7 +153,7 @@ div.jsoneditor-value.jsoneditor-invalid {
 ]
 ```
 
-[更多規則範例](https://github.com/hoothin/UserScripts/blob/master/Pagetual/pagetualRules.json)
+[更多規則範例](https://github.com/tomkabel/UserScripts/blob/master/Pagetual/pagetualRules.json)
 
 ## name
 

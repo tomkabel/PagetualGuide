@@ -8,9 +8,9 @@
 
 <p name="click2import"></p>
 <pre name="pagetual" style="display: none;">
-https://hoothin.github.io/UserScripts/Pagetual/pagetualRules.json
+https://tomkabel.github.io/UserScripts/Pagetual/pagetualRules.json
 </pre>
-<component :is="'script'" src = "/jsoneditor/jsoneditor.min.js">
+<component :is="'script'" src = "/PagetualGuide/jsoneditor/jsoneditor.min.js">
 </component>
 <component :is="'style'" type="text/css">
 div.jsoneditor,
@@ -95,7 +95,7 @@ div.jsoneditor-value.jsoneditor-invalid {
 }
 </component>
 
-[![discord](/img/discord.png) Discord](https://discord.com/invite/keqypXC6wD "Discordグループに参加してください") [![github](/img/github.png) Github](https://github.com/hoothin/UserScripts "私たちの Github にスターを付けてください") [![twitter](/img/twitter.png) Twitter](https://twitter.com/intent/follow?screen_name=HoothinDev "Twitterで私をフォローしてください")
+[![discord](/img/discord.png) Discord](https://discord.com/invite/keqypXC6wD "Discordグループに参加してください") [![github](/img/github.png) Github](https://github.com/tomkabel/UserScripts "私たちの Github にスターを付けてください") [![twitter](/img/twitter.png) Twitter](https://twitter.com/intent/follow?screen_name=HoothinDev "Twitterで私をフォローしてください")
 
 <div id="jsoneditor"></div>
 
@@ -152,7 +152,7 @@ div.jsoneditor-value.jsoneditor-invalid {
 ]
 ```
 
-[その他のルールの例](https://github.com/hoothin/UserScripts/blob/master/Pagetual/pagetualRules.json)
+[その他のルールの例](https://github.com/tomkabel/UserScripts/blob/master/Pagetual/pagetualRules.json)
 
 ## name
 

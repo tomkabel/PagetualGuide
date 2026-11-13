@@ -198,8 +198,8 @@ Xpath 沒有「判斷是否包含空白分隔列表項」的內建運算子，�
 ### 鏈式順序
 
 ```bash
-a[1][@href='/']
-a[@href='/'][1]
+a[1][@href='/PagetualGuide/']
+a[@href='/PagetualGuide/'][1]
 ```
 
 順序不同，結果也不同。

@@ -1,8 +1,6 @@
 import { defaultTheme } from 'vuepress'
 import { seoPlugin } from "vuepress-plugin-seo2";
 import { getDirname, path } from '@vuepress/utils'
-import googleAdSensePlugin from 'vuepress-plugin-google-adsense2';
-import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
 import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 import 'default-passive-events';
 
@@ -67,19 +65,14 @@ export default {
     }
   },
   head: [
-    ["link", { rel: "shortcut icon", href: "/img/fav.ico" }],
-    ["link", { rel: "icon", type: "image/x-icon", size: "16x16 32x32", href: "/img/fav.ico" }],
-    ['link', { rel: 'stylesheet', href: '/jsoneditor/jsoneditor.min.css',  type: "text/css" }],
-    ["script",
-      {
-        async: true,
-        src: "/js/adsense.js",
-      }],
-    ['link', { rel: 'stylesheet', href: '/css/head.css',  type: "text/css" }],
-    ["meta", { property: "og:image", itemprop: "image", content: 'https://pagetual.hoothin.com/img/share.png'}],
+    ["link", { rel: "shortcut icon", href: "/PagetualGuide/img/fav.ico" }],
+    ["link", { rel: "icon", type: "image/x-icon", size: "16x16 32x32", href: "/PagetualGuide/img/fav.ico" }],
+    ['link', { rel: 'stylesheet', href: '/PagetualGuide/jsoneditor/jsoneditor.min.css',  type: "text/css" }],
+    ['link', { rel: 'stylesheet', href: '/PagetualGuide/css/head.css',  type: "text/css" }],
+    ["meta", { property: "og:image", itemprop: "image", content: 'https://tomkabel.github.io/PagetualGuide/img/share.png'}],
     ["meta", { name: "keywords", content: 'infinity scroll, infinite scroll, unlimited scroll, endless page, endless scrolling, auto pager, load more, web pagination, never ending scroll, eternal scroll, 東方永頁機, 东方永页机, AutoPagerize, tampermonkey, css selector cheat sheet, userscripts, AutoPager, PageZipper, Auto Pagerize, weAutoPagerize, uAutoPagerize, NextPage, pagination, wedata, SITEINFO, second page, 2nd page, next page, compatibile, manga loader, 自动翻页, Super-preloader, Super_preloaderPlus_one_New_改, super preload, 网页拼页, 加载分页, endless google' }]
   ],
-  base: '/',
+  base: '/PagetualGuide/',
   clientConfigFile: path.resolve(__dirname, './client.js'),
   shouldPrefetch: false,
   theme: defaultTheme({
@@ -163,7 +156,7 @@ export default {
           ]
         },
         navbar:[
-          {text: 'Github', link: 'https://github.com/hoothin/UserScripts/tree/master/Pagetual' },
+          {text: 'Github', link: 'https://github.com/tomkabel/UserScripts/tree/master/Pagetual' },
           {
             text: '❤️Sponsor',
             children: [
@@ -293,7 +286,7 @@ export default {
           ]
         },
         navbar:[
-          {text: 'Github仓库', link: 'https://github.com/hoothin/UserScripts/tree/master/Pagetual' },
+          {text: 'Github仓库', link: 'https://github.com/tomkabel/UserScripts/tree/master/Pagetual' },
           {
             text: '❤️赞助',
             children: [
@@ -419,7 +412,7 @@ export default {
           ]
         },
         navbar:[
-          {text: 'Github', link: 'https://github.com/hoothin/UserScripts/tree/master/Pagetual' },
+          {text: 'Github', link: 'https://github.com/tomkabel/UserScripts/tree/master/Pagetual' },
           {
             text: '❤️協賛',
             children: [
@@ -548,7 +541,7 @@ export default {
           ]
         },
         navbar:[
-          {text: 'Github', link: 'https://github.com/hoothin/UserScripts/tree/master/Pagetual' },
+          {text: 'Github', link: 'https://github.com/tomkabel/UserScripts/tree/master/Pagetual' },
           {
             text: '❤️Sponsor',
             children: [
@@ -677,7 +670,7 @@ export default {
           ]
         },
         navbar:[
-          {text: 'Github', link: 'https://github.com/hoothin/UserScripts/tree/master/Pagetual' },
+          {text: 'Github', link: 'https://github.com/tomkabel/UserScripts/tree/master/Pagetual' },
           {
             text: '❤️贊助',
             children: [
@@ -806,7 +799,7 @@ export default {
           ]
         },
         navbar:[
-          {text: 'Github', link: 'https://github.com/hoothin/UserScripts/tree/master/Pagetual' },
+          {text: 'Github', link: 'https://github.com/tomkabel/UserScripts/tree/master/Pagetual' },
           {
             text: '❤️Sponsor',
             children: [
@@ -935,7 +928,7 @@ export default {
           ]
         },
         navbar:[
-          {text: 'Github', link: 'https://github.com/hoothin/UserScripts/tree/master/Pagetual' },
+          {text: 'Github', link: 'https://github.com/tomkabel/UserScripts/tree/master/Pagetual' },
           {
             text: '❤️Sponsor',
             children: [
@@ -1064,7 +1057,7 @@ export default {
           ]
         },
         navbar:[
-          {text: 'Github', link: 'https://github.com/hoothin/UserScripts/tree/master/Pagetual' },
+          {text: 'Github', link: 'https://github.com/tomkabel/UserScripts/tree/master/Pagetual' },
           {
             text: '❤️Sponsor',
             children: [
@@ -1193,7 +1186,7 @@ export default {
           ]
         },
         navbar:[
-          {text: 'Github', link: 'https://github.com/hoothin/UserScripts/tree/master/Pagetual' },
+          {text: 'Github', link: 'https://github.com/tomkabel/UserScripts/tree/master/Pagetual' },
           {
             text: '❤️Sponsor',
             children: [
@@ -1322,7 +1315,7 @@ export default {
           ]
         },
         navbar:[
-          {text: 'Github', link: 'https://github.com/hoothin/UserScripts/tree/master/Pagetual' },
+          {text: 'Github', link: 'https://github.com/tomkabel/UserScripts/tree/master/Pagetual' },
           {
             text: '❤️Sponsor',
             children: [
@@ -1451,7 +1444,7 @@ export default {
           ]
         },
         navbar:[
-          {text: 'Github', link: 'https://github.com/hoothin/UserScripts/tree/master/Pagetual' },
+          {text: 'Github', link: 'https://github.com/tomkabel/UserScripts/tree/master/Pagetual' },
           {
             text: '❤️Sponsor',
             children: [
@@ -1509,13 +1502,13 @@ export default {
   }),
   plugins: [
     seoPlugin({
-      hostname: 'https://pagetual.hoothin.com',
+      hostname: 'https://tomkabel.github.io',
       autoDescription: false,
       author: {
         name: 'Hoothin',
         email: 'rixixi@gmail.com'
       },
-      canonical: page => 'https://pagetual.hoothin.com' + ((/[^\/]%/.test(page.path) && page.path.replace(/\.html/, '') + '.html') || page.path),
+      canonical: page => 'https://tomkabel.github.io/PagetualGuide' + ((/[^\/]%/.test(page.path) && page.path.replace(/\.html/, '') + '.html') || page.path),
       customHead: (head, page) => {
         // 获取当前页面对应的英文版本路径（x-default）
         let defaultPath = page.path;
@@ -1533,15 +1526,12 @@ export default {
         head.push(['link', {
           rel: 'alternate',
           hreflang: 'x-default',
-          href: 'https://pagetual.hoothin.com' + defaultPath
+          href: 'https://tomkabel.github.io/PagetualGuide' + defaultPath
         }]);
       }
     }),
-    googleAnalyticsPlugin({
-      id: 'G-RK2BPL3B0G',
-    }),
     sitemapPlugin({
-      hostname: 'pagetual.hoothin.com',
+      hostname: 'https://tomkabel.github.io',
     })
   ],
   alias: {

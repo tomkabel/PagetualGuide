@@ -198,8 +198,8 @@ Verwende `[]` mit Zahl, `last()` oder `position()`.
 ### Verkettungsreihenfolge
 
 ```bash
-a[1][@href='/']
-a[@href='/'][1]
+a[1][@href='/PagetualGuide/']
+a[@href='/PagetualGuide/'][1]
 ```
 
 Die Reihenfolge ist wichtig; diese beiden unterscheiden sich.

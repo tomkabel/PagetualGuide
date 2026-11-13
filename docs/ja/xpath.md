@@ -198,8 +198,8 @@ Xpath には「空白区切りのクラス名に含まれるか」を直接判�
 ### 連結順序
 
 ```bash
-a[1][@href='/']
-a[@href='/'][1]
+a[1][@href='/PagetualGuide/']
+a[@href='/PagetualGuide/'][1]
 ```
 
 順序によって結果が変わります。

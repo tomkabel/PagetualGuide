@@ -66,7 +66,7 @@ Khi mở tùy chọn này, Pagetual sẽ tải trước tất cả các hình �
 
 -----
 
-## 5 [Quy tắc tùy chỉnh](/rule.html)
+## 5 [Quy tắc tùy chỉnh](/rule.md)
 ![Custom rules](https://s3.bmp.ovh/imgs/2024/01/10/fa4f00c3e9f77878.gif)
 
 ### 5.1 Chọn bằng hình ảnh (Visual grab)

@@ -198,8 +198,8 @@ Usa `[]` con un número, o `last()` o `position()`.
 ### Orden de encadenado
 
 ```bash
-a[1][@href='/']
-a[@href='/'][1]
+a[1][@href='/PagetualGuide/']
+a[@href='/PagetualGuide/'][1]
 ```
 
 El orden importa; estos dos son distintos.

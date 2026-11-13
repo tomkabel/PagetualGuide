@@ -47,7 +47,7 @@ A：您可以在使用者腳本插件管理介面中停用或刪除特定的油�
   - [Gear](https://gear4.app/)
 
 ## 2 安裝東方永頁機 - 2秒
-<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #005200; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://greasyfork.org/zh-TW/scripts/438684-pagetual">訪問 Greasyfork 安裝</a><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://hoothin.github.io/UserScripts/Pagetual/pagetual.user.js">Github 庫</a></div>
+<div style="display: flex"><a style="transition: box-shadow .2s; display: inline-block; background-color: #e2510a; padding: 0.7rem 1.1rem; color: #fff; text-decoration: none; font-weight: 700; height: fit-content; margin: 6px 0 0 10px;" href="https://tomkabel.github.io/UserScripts/Pagetual/pagetual.user.js">Github 庫</a></div>
 
 ## 3 安裝之後
 安裝之後建議前往**進階自訂**頁導入基礎規則庫，基礎庫針對諸多常用站點編寫了規則。
