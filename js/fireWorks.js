@@ -1,17 +1,17 @@
 //https://github.com/alpacachen/cele
 const imgs = [
-    '/img/1.png',
-    '/img/2.png',
-    '/img/3.png',
-    '/img/4.png',
-    '/img/5.png',
-    '/img/6.png',
-    '/img/7.png',
-    '/img/8.png',
-    '/img/9.png',
-    '/img/10.png',
-    '/img/11.png',
-    '/img/12.png'
+    '/PagetualGuide/img/1.png',
+    '/PagetualGuide/img/2.png',
+    '/PagetualGuide/img/3.png',
+    '/PagetualGuide/img/4.png',
+    '/PagetualGuide/img/5.png',
+    '/PagetualGuide/img/6.png',
+    '/PagetualGuide/img/7.png',
+    '/PagetualGuide/img/8.png',
+    '/PagetualGuide/img/9.png',
+    '/PagetualGuide/img/10.png',
+    '/PagetualGuide/img/11.png',
+    '/PagetualGuide/img/12.png'
 ];
 
 const random = Math.random.bind(Math);
